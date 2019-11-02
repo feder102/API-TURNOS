@@ -1,0 +1,22 @@
+{
+  "name": "api-turnos",
+  "version": "1.0.0",
+  "description": "Gestion de turnos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feder102/api-turnos.git"
+  },
+  "keywords": [
+    "Turnos"
+  ],
+  "author": "Gonzalo Sanchez, Martin Muñoz, Federico Castiglione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feder102/api-turnos/issues"
+  },
+  "homepage": "https://github.com/feder102/api-turnos#readme"
+}
