@@ -1,0 +1,38 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\server.js",
+        "parent_id": null,
+        "fsPath": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\server.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ufrcdJOtyD6bNI1v"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\app.js",
+        "parent_id": null,
+        "fsPath": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\app.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "3JEsib1VOGSLeHB4"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\routes",
+        "parent_id": null,
+        "fsPath": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "YVOS6RAkByTqWgXw"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\database",
+        "parent_id": null,
+        "fsPath": "c:\\Martin\\Development\\Node.js\\Repository\\curso-node-sanjuantec\\04-express-ruteo\\api-veterinaria\\database",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6buwScOCtaJdqHF3"
+    }
+]
